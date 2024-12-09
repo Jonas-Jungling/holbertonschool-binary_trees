@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include <stddef.h>
 /**
 * binary_tree_node - Creates a binary tree node
 * @parent: A pointer to the parent node
